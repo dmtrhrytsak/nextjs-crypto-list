@@ -24,7 +24,7 @@ Project is created with:
 
 * npm
   ```sh
-  npm install npm@latest -g
+  npm install --global yarn
   ```
 
 ### Installation
@@ -37,6 +37,6 @@ Project is created with:
 2. Install NPM packages
 
    ```sh
-   npm install
+   yarn install
    ```
 <p align="right">(<a href="#top">back to top</a>)</p>
